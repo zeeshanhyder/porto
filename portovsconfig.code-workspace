@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/home/hyder/MEGA"
+		},
+		{
+			"path": "/home/hyder/ds"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/hyder/anaconda3/bin/python"
+	}
+}
