@@ -7,4 +7,3 @@ import csv
 TEST_PORTION=.5
 test_data = "/home/hyder/ds/porto/test.csv"
 train_data = "/home/hyder/ds/porto/train.csv"
-
